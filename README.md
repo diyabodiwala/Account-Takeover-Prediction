@@ -34,7 +34,7 @@ The dataset used for training the model includes features such as:
 ## Installation
 
 ## Clone the repository:
-`git` clone https://github.com/diyabodiwala/Account-Takeover-Prediction.git
+`git` `clone` https://github.com/diyabodiwala/Account-Takeover-Prediction.git
 
 ## Navigate to the project directory:
 `cd` Account-Takeover-Prediction/models
