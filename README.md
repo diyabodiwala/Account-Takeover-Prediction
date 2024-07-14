@@ -34,13 +34,13 @@ The dataset used for training the model includes features such as:
 ## Installation
 
 ## Clone the repository:
-git `clone` `https://github.com/diyabodiwala/Account-Takeover-Prediction.git`
+`git` clone https://github.com/diyabodiwala/Account-Takeover-Prediction.git
 
 ## Navigate to the project directory:
-`cd Account-Takeover-Prediction/models`
+`cd` Account-Takeover-Prediction/models
 
 ## Install the required dependencies:
-`pip install -r requirements.txt`
+`pip` install -r requirements.txt
 
 ## Usage
 * Data Exploration: Use data_exploration.ipynb to explore the raw data.
